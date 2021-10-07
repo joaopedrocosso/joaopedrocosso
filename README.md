@@ -1,4 +1,4 @@
-## Olá, eu sou o Jo
+## Olá, eu sou o João Pedro! Desenvolvedor de software, front-end, e apaixonado por Python.
 <div align="left">
   <a href="https://github.com/joaopedrocosso">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaopedrocosso&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
