@@ -11,7 +11,7 @@
   <img align="center" alt="João-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
   <img align="center" alt="João-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
   <img align="center" alt="João-Jupyter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg"> 
-  <img align="center" alt="João-C" height="30" width="40" src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg](https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/c/c-original.svg)"> 
+  <img align="center" alt="João-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/c/c-original.svg"> 
   <img align="right" alt="João-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/895861338809708547/895861404249243738/Cosso_Codes_Gif.gif">
 </div>  
 
