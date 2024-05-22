@@ -6,8 +6,8 @@
 <br>
 
 <div align="start">
-<img src="https://streak-stats.demolab.com?user=joaopedrocosso&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=joaopedrocosso&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&include_public_commits=true" height="150" alt="languages graph"  />
+<img src="https://streak-stats.demolab.com?user=joaopedrocosso&locale=en&mode=dark&theme=meta-dark&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=joaopedrocosso&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark_dimmed&hide_border=false&include_public_commits=true" height="150" alt="languages graph"  />
 </div>
 
 
