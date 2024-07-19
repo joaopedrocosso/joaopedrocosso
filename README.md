@@ -1,7 +1,9 @@
+![](https://komarev.com/ghpvc/?username=joaopedrocosso&color=006bed)
+
 <h1>Hello <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm João Pedro Cosso</h1>
 
 - 🎓 Computer science student at the State University of Rio de Janeiro;
-- 💡 Interests: Fullstack Development, Mobile Development nd AI Science;
+- 💡 Interests: Fullstack Development, Mobile Development and AI Science;
 
 <br>
 
@@ -29,13 +31,9 @@
 ![Azure](https://img.shields.io/badge/-Microsoft_Azure-05122A?style=flat&logo=microsoft-azure)&nbsp;
 ![Jest](https://img.shields.io/badge/-Jest-05122A?style=flat&logo=jest)&nbsp;
 
-<br>
- 
-<div align="left">
-<a href="mailto:cossocodes@gmail.com?subject=&body=" target="_blank">
-<img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-</a>
-<a href="https://www.linkedin.com/in/joaopedrocosso/" target="_blank">
-<img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-</a>
-</div>
+## Onde me encontrar
+
+[![Linkedin](https://img.shields.io/badge/-joaopedrocosso-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joaopedrocosso/)](https://www.linkedin.com/in/joaopedrocosso/)
+[![Gmail Badge](https://img.shields.io/badge/-cossocodes@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:cossocodes@gmail.com)](mailto:cossocodes@gmail.com)
+[![GitHub](https://img.shields.io/github/followers/joaopedrocosso?label=follow&style=social)](https://github.com/joaopedrocosso/)
+
