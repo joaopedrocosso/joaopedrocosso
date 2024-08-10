@@ -13,25 +13,39 @@
 </div>
 
 
-## &nbsp;Tech Stack
+## &nbsp;Programming Languages
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=oracle)&nbsp;
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)&nbsp;
-![ReactJS](https://img.shields.io/badge/-ReactJS-05122A?style=flat&logo=react)&nbsp;
-![ReactNative](https://img.shields.io/badge/-React_Native-05122A?style=flat&logo=react)&nbsp;
-![NextJS](https://img.shields.io/badge/-NextJS-05122A?style=flat&logo=next.js)&nbsp;
-![NodeJS](https://img.shields.io/badge/-NodeJS-05122A?style=flat&logo=node.js)&nbsp;
-![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)&nbsp;
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
+![HTML5](https://img.shields.io/badge/-HTML5-05122A?style=flat&logo=HTML5)&nbsp;
+![CSS3](https://img.shields.io/badge/-CSS3-05122A?style=flat&logo=CSS3)&nbsp;
+
+## &nbsp;Libraries & Frameworks
+![React](https://img.shields.io/badge/-ReactJS-05122A?style=flat&logo=react)&nbsp;
+![Next JS](https://img.shields.io/badge/-NextJS-05122A?style=flat&logo=next.js)&nbsp;
+![Node JS](https://img.shields.io/badge/-NodeJS-05122A?style=flat&logo=node.js)&nbsp;
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-05122A?style=flat&logo=tailwind-css)&nbsp;
+![Styled Components](https://img.shields.io/badge/-StyledComponents-05122A?style=flat&logo=styled-components)&nbsp;
+
+## &nbsp;Tools & Platforms
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)&nbsp;
+![AWS](https://img.shields.io/badge/-Amazon_AWS-05122A?style=flat&logo=amazonaws)&nbsp;
+![Azure](https://img.shields.io/badge/-Microsoft_Azure-05122A?style=flat&logo=azure)&nbsp;
+![Vercel](https://img.shields.io/badge/-Vercel-05122A?style=flat&logo=vercel)&nbsp;
+![Netlify](https://img.shields.io/badge/-Netlify-05122A?style=flat&logo=netlify)&nbsp;
+![Figma](https://img.shields.io/badge/-Figma-05122A?style=flat&logo=figma)&nbsp;
+
+## &nbsp;Databases
 ![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)&nbsp;
 ![SQLServer](https://img.shields.io/badge/-SQL_Server-05122A?style=flat&logo=microsoft-sql-server)&nbsp;
 ![MySQL](https://img.shields.io/badge/-My_SQL-05122A?style=flat&logo=mysql)&nbsp;
-![AWS](https://img.shields.io/badge/-Amazon_AWS-05122A?style=flat&logo=amazonaws)&nbsp;
-![Azure](https://img.shields.io/badge/-Microsoft_Azure-05122A?style=flat&logo=microsoft-azure)&nbsp;
-![Jest](https://img.shields.io/badge/-Jest-05122A?style=flat&logo=jest)&nbsp;
+![Redis](https://img.shields.io/badge/-Redis-05122A?style=flat&logo=redis)&nbsp;
+![Supabase](https://img.shields.io/badge/-Supabase-05122A?style=flat&logo=supabase)&nbsp;
 
-## Onde me encontrar
+
+## Where to find me
 
 [![Linkedin](https://img.shields.io/badge/-joaopedrocosso-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joaopedrocosso/)](https://www.linkedin.com/in/joaopedrocosso/)
 [![Gmail Badge](https://img.shields.io/badge/-cossocodes@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:cossocodes@gmail.com)](mailto:cossocodes@gmail.com)
