@@ -48,6 +48,6 @@
 ## Where to find me
 
 [![Linkedin](https://img.shields.io/badge/-joaopedrocosso-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joaopedrocosso/)](https://www.linkedin.com/in/joaopedrocosso/)
-[![Gmail Badge](https://img.shields.io/badge/-cossocodes@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:cossocodes@gmail.com)](mailto:cossocodes@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-contact@joaopedrocosso.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:contact@joaopedrocosso.com)](mailto:contact@joaopedrocosso.com)
 [![GitHub](https://img.shields.io/github/followers/joaopedrocosso?label=follow&style=social)](https://github.com/joaopedrocosso/)
 
